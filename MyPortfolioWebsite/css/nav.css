@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(3, 3, 51);
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(52, 4, 87);
+    height: 4rem;
+    width: 100vw;
+   
+   
+}
+nav p{
+    margin-top: 18px;
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    
+}
+
+ul li{
+    list-style: none;
+    padding-right: 25px;
+    margin-top: 19px;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    cursor: pointer;
+    color: rgb(157, 74, 216);
+     
+}

@@ -1,0 +1,50 @@
+
+#sec1{
+    display: flex;
+   
+}
+
+.one{
+    width: 49vw;
+    height:50vh;
+    font-size: xx-large;
+    margin-top: 25vh;
+    margin-left: 10vw;
+}
+
+#name{
+    color: rgb(242, 43, 242);
+}
+span{
+    color:rgb(140, 48, 239);
+    font-size: larger
+}
+.two{
+    width: 49vw;
+    height:80vh;
+    
+}
+.two img{
+ 
+    margin-top: 120px;
+    margin-left: 95px;
+}
+
+#sec2{
+    display: flex;
+    /* border: 1px solid red; */
+    height:80vh;
+
+}
+
+#sec3{
+    display: flex;
+    /* border: 2px solid purple; */
+    height:80vh;
+
+}
+
+.two img{
+    width: 400px;
+    height: 250px;
+}

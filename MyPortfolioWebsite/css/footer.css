@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: black;
+    width: 100vw;
+    height: 4vh;
+    text-align: center;
+    
+}

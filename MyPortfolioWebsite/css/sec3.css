@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#sec3{
+    width: 100vw;
+    height: 50vh;
+    font-size: larger;
+}
+
+.project1{
+    background-color: rgb(52, 4, 87);
+    width: 80vw;
+    height: 32vh;
+    padding-left: 2vw;
+    padding-bottom:2vw ;
+    /* background-color: rgba(232, 208, 177, 0.703); */
+    margin-left: 10vw;
+    margin-top: 10vh;
+    overflow-y: hidden;
+}
+
+#sec3 p{
+    margin-top: 2vh;
+}
+
+/* #link{
+    color: rgb(49, 49, 226);
+} */
+
+.link a{
+    color: blue;
+}
+#link:hover{
+    cursor: pointer;
+    
+}
