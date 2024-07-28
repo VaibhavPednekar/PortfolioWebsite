@@ -8,6 +8,10 @@
     justify-content: center;
     align-items: center;
     margin-left: 10vw;
+    border-radius: 10px;
+}
+.certificate:hover{
+    border: 2px solid white;
 }
 
 a{
