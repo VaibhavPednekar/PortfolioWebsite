@@ -9,6 +9,9 @@
     align-items: center;
     margin-left: 10vw;
 }
+.certificate:hover{
+    border: 2px solid white;
+}
 
 a{
     color: blue;
